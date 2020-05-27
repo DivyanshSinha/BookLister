@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Book Lister</string>
+    <string-array name="numbers">
+        <item>Search all references</item>
+        <item>Book Title</item>
+        <item>Author</item>
+        <item>Publisher</item>
+    </string-array>
+    <string name="search">SEARCH</string>
+    <string name="by">By - </string>
+    <string name="new_search">New Search</string>
+    <string name="no_result">No results found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="please_check_connection">Please check internet connection and restart the app.</string>
+    <string name="publisher">Published by - </string>
+    <string name="please_wait">Please wait...</string>
+</resources>
